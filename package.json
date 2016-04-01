@@ -1,0 +1,27 @@
+{
+  "name": "lecture-duck-tales",
+  "version": "0.0.1",
+  "description": "Lecture about web typography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/realetive/lecture-duck-tales.git"
+  },
+  "keywords": [
+    "web",
+    "typography"
+  ],
+  "author": "Roman Ganin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realetive/lecture-duck-tales/issues"
+  },
+  "homepage": "https://github.com/realetive/lecture-duck-tales#readme",
+  "devDependencies": {
+    "shower-core": "^2.0.5",
+    "shower-material": "^1.0.4"
+  }
+}

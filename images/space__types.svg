@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="585.95703" height="724.91919" id="svg2">
+  <title id="title3630">Punctuation_Spaces.svg</title>
+  <defs id="defs4"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>Punctuation_Spaces.svg</dc:title>
+        <dc:date>2011-08-08</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dan Church</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title/>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect width="585.95703" height="724.91919" x="0" y="0" id="background" style="fill:black"/>
+  <g id="foreground" style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:white;fill-opacity:1;stroke:none;font-family:DejaVu Sans">
+    <text x="-7.2070322" y="40.78125" id="spacing_brackets" xml:space="preserve" style="display:none"><tspan x="-7.2070322" y="40.78125" id="tspan3172">▕ ▏</tspan><tspan x="-7.2070322" y="100.78125" id="tspan3174">▕　▏</tspan><tspan x="-7.2070322" y="164.91917" id="tspan3176">▕ ▏</tspan><tspan x="-7.2070322" y="224.91917" id="tspan3178">▕ ▏</tspan><tspan x="-7.2070322" y="284.91919" id="tspan3180">▕ ▏</tspan><tspan x="-7.2070322" y="344.91919" id="tspan3182">▕ ▏</tspan><tspan x="-7.2070322" y="404.91919" id="tspan3184">▕ ▏</tspan><tspan x="-7.2070322" y="464.91919" id="tspan3186">▕ ▏</tspan><tspan x="-7.2070322" y="524.91919" id="tspan3188">▕ ▏</tspan><tspan x="-7.2070322" y="584.91919" id="tspan3190">▕ ▏</tspan><tspan x="-7.2070322" y="644.91919" id="tspan3192">▕ ▏</tspan><tspan x="-7.2070322" y="704.91919" id="tspan3194">▕ ▏</tspan></text>
+    <path d="m 23.9375,10 c 0,234.96875 0,469.9375 0,704.90625 l 3.21875,0 0,-50.40625 2.75,0 0,-60 1.25,0 0,-60 0,-60 0.9375,0 0,-60 3.8125,0 0,-60 0.46875,0 0,-60 -0.46875,0 0,-60 7.28125,0 0,-60 5.46875,0 0,-62.03125 14.53125,0 0,-62.0625 0,-50.40625 z" id="spacing_filled"/>
+    <text x="75.996094" y="40.78125" id="spacing_labels" xml:space="preserve"><tspan x="75.996094" y="40.78125" id="tspan3546">EM</tspan><tspan x="75.996094" y="100.78125" id="tspan3548">IDEOGRAPHIC</tspan><tspan x="75.996094" y="160.78125" id="tspan3550">FIGURE</tspan><tspan x="75.996094" y="220.78125" id="tspan3552">EN</tspan><tspan x="75.996094" y="280.78125" id="tspan3554">PUNCTUATION</tspan><tspan x="75.996094" y="340.78125" id="tspan3556">THREE-PER-EM</tspan><tspan x="75.996094" y="400.78125" id="tspan3558">NORMAL</tspan><tspan x="75.996094" y="460.78125" id="tspan3560">MEDIUM MATHEMATICAL</tspan><tspan x="75.996094" y="520.78125" id="tspan3562">NARROW NO-BREAK</tspan><tspan x="75.996094" y="580.78125" id="tspan3564">THIN</tspan><tspan x="75.996094" y="640.78125" id="tspan3566">SIX-PER-EM</tspan><tspan x="75.996094" y="700.78125" id="tspan3568">HAIR</tspan></text>
+  </g>
+</svg>
