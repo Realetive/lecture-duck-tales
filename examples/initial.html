@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Буквица</title>
+</head>
+<style>
+  body { background: #333; }
+  p { background: #fff; width: 440px; margin: 30px auto 25px; padding: 25px; font-size: 26px; line-height: 1em; hyphens: auto}
+
+  .initial-letter::first-letter {
+    font-size     : 3em;     /* Размер буквицы                */
+    padding-right : .03px;   /* Отступ справа                 */
+    color         : #e7685d; /* Цвет буквицы                  */
+    float         : left;    /* Обтекание по правому краю     */
+    line-height   : 0.6em;   /* Положение относительно текста */
+  }
+
+  .initial-letter {
+    clear         : left;    /* Clearfix                      */
+  } 
+</style>
+<body>
+  <p class="initial-letter">
+    Буквица — художественный приём оформления текста за&nbsp;счёт увеличения первой буквы главы или&nbsp;раздела, базовая линия которой ниже на&nbsp;одну или&nbsp;несколько строк базовой линии основного текста.  
+  </p>
+</body>
+</html>
