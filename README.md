@@ -379,7 +379,8 @@ $block-height : 1em * $line-height;
 * электронный учебник «[Типографика и вёрстка](http://artgorbunov.ru/projects/book-typography/)» от дизайн-бюро Артемия Горбунова;
 * [Типографская раскладка Ильи Бирмана](http://ilyabirman.ru/projects/typography-layout/) – альтернативная языковая раскладка для MAC OS и Windows, упрощающая ввод популярных типографических символов;
 * [TypoWolf](https://www.typewolf.com/) – журнал c примерами типографических приёмов в вебе. Ежедневные подборки, статьи и руководства;
-* [Gutenberg](https://github.com/matejlatin/Gutenberg) – настраиваемый типографический стартовый набор на Sass, основанный на вертикальном ритме.
+* [Gutenberg](https://github.com/matejlatin/Gutenberg) – настраиваемый типографический стартовый набор на Sass, основанный на вертикальном ритме;
+* [typebase.css](http://devinhunt.github.io/typebase.css/) – своеобразный «normalize.css» для типографики.
 
 ### На «сладкое»
 
